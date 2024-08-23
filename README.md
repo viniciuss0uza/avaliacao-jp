@@ -3,6 +3,12 @@ Avaliação JP
 
 Repositório para os comandos do Git!
 
+git --version;
+    Verifica aversão do Git no windows.
+
+git config --global user.name "nome":
+    
+
 git pull:
     Baixa objetos e referências do repositório remoto e mescla com a
 branch atual. Para reverter o estado da branch local ao commit anterior ao pull, use git reset --hard <commit-hash>
